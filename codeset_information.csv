@@ -1,0 +1,299 @@
+﻿Category,Category0,Category1,Category2,Category3,Variation,ClassName,MethodName
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,boolean,Class1A0000,func1A0000
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,char,Class1A0001,func1A0001
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,byte,Class1A0002,func1A0002
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,short,Class1A0003,func1A0003
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,int,Class1A0004,func1A0004
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,long,Class1A0005,func1A0005
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,float,Class1A0006,func1A0006
+1.Basic Operations,Simple,Declaration,Data Types,Primitive Types,double,Class1A0007,func1A0007
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Boolean,Class1A0008,func1A0008
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Byte,Class1A0009,func1A0009
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Character,Class1A0010,func1A0010
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Double,Class1A0011,func1A0011
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Float,Class1A0012,func1A0012
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Integer,Class1A0013,func1A0013
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Long,Class1A0014,func1A0014
+1.Basic Operations,Simple,Declaration,Data Types,Reference Types,Short,Class1A0015,func1A0015
+1.Basic Operations,Simple,Declaration,Data Types,Generics,Method,Class1A0016,func1A0016
+1.Basic Operations,Simple,Declaration,Data Types,Generics,Class,Class1A0017,Class1A0017
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Method Modifier,Not Specified,Class1B0000,func1B0000
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Method Modifier,public,Class1B0001,func1B0001
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Method Modifier,private,Class1B0002,func1B0002
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Method Modifier,protected,Class1B0003,func1B0003
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Class Modifier,Not Specified,Class1B0004,func1B0004
+4.Object-Oriented,Simple,Declaration,Modifiers,Access Modifier/Class Modifier,public,Class1B0005,func1B0005
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Class Modifier,final,Class1B0006,func1B0006
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Class Modifier,abstract,Class1B0007,func1B0007
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Class Modifier,strictfp,Class1B0008,func1B0008
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,final,Class1B0009,func1B0009
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,static,Class1B0010,func1B0010
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,abstract,Class1B0011,func1B0011
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,synchronized,Class1B0012,func1B0012
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,strictfp,Class1B0013,func1B0013
+4.Object-Oriented,Simple,Declaration,Modifiers,Non-Access Modifier/Method Modifier,default,Class1B0014,func1B0014
+4.Object-Oriented,Simple,Declaration,Class,Standard Class,,Class1C0000,func1C0000
+4.Object-Oriented,Simple,Declaration,Class,Superclass (Inheritance),,Class1C0001,func1C0001
+4.Object-Oriented,Simple,Declaration,Class,Interface,,Class1C0002,func1C0002
+4.Object-Oriented,Simple,Declaration,Class,Abstract Class,,Class1C0003,func1C0003
+4.Object-Oriented,Simple,Declaration,Class,Final Class,,Class1C0004,func1C0004
+4.Object-Oriented,Simple,Declaration,Class,Inner Class,Member Class: Within Class + Non-static,Class1C0005,func1C0005
+4.Object-Oriented,Simple,Declaration,Class,Inner Class,Member Class: Within Method,Class1C0006,func1C0006
+4.Object-Oriented,Simple,Declaration,Class,Inner Class,Anonymous Class,Class1C0007,func1C0007
+4.Object-Oriented,Simple,Declaration,Class,Nested Class,Static Class/Member Class,Class1C0008,func1C0008
+4.Object-Oriented,Simple,Declaration,Class,Nested Class,Static Class/Local Class,Class1C0009,func1C0009
+4.Object-Oriented,Simple,Declaration,Class,Enum,,Class1C0010,func1C0010
+4.Object-Oriented,Simple,Declaration,Method,main,,Class1D0000,main
+4.Object-Oriented,Simple,Declaration,Method,Instance Method,,Class1D0001,func1D0001
+4.Object-Oriented,Simple,Declaration,Method,Static Method,,Class1D0002,func1D0002
+4.Object-Oriented,Simple,Declaration,Field,Instance Field,,Class1E0000,func1E0000
+4.Object-Oriented,Simple,Declaration,Field,Class Field,,Class1E0001,func1E0001
+1.Basic Operations,Simple,Declaration,Parameters,None,,Class1F0000,func1F0000
+1.Basic Operations,Simple,Declaration,Parameters,Present,Pass by Value,Class1F0001,func1F0001
+1.Basic Operations,Simple,Declaration,Parameters,Present,Pass by Reference,Class1F0002,func1F0002
+1.Basic Operations,Simple,Declaration,Parameters,Present,Varargs,Class1F0003,func1F0003
+1.Basic Operations,Simple,Declaration,Parameters,Present,Default Argument: No Args,Class1F0004,func1F0004
+1.Basic Operations,Simple,Declaration,Parameters,Present,Default Argument: 1 Arg,Class1F0004,func1F0004
+1.Basic Operations,Simple,Declaration,Parameters,Present,Default Argument: 2 Args,Class1F0004,func1F0004
+1.Basic Operations,Simple,Declaration,Return Value,None,,Class1G0000,func1G0000
+1.Basic Operations,Simple,Declaration,Return Value,Present,,Class1G0001,func1G0001
+4.Object-Oriented,Simple,Declaration,Annotations,Standard Annotations,@Override,Class1H0000,func1H0000
+4.Object-Oriented,Simple,Declaration,Annotations,Standard Annotations,@Deprecated,Class1H0001,func1H0001
+4.Object-Oriented,Simple,Declaration,Annotations,Standard Annotations,@SuppressWarnings,Class1H0002,func1H0002
+4.Object-Oriented,Simple,Declaration,Annotations,Standard Annotations,@SafeVarargs,Class1H0003,func1H0003
+4.Object-Oriented,Simple,Declaration,Annotations,Standard Annotations,@FunctionalInterface,Class1H0004,func1H0004
+4.Object-Oriented,Simple,Declaration,Annotations,Meta-Annotations,@Documented,Class1H0005,func1H0005
+4.Object-Oriented,Simple,Declaration,Annotations,Meta-Annotations,@Retention,Class1H0006,func1H0006
+4.Object-Oriented,Simple,Declaration,Annotations,Meta-Annotations,@Target,Class1H0007,func1H0007
+4.Object-Oriented,Simple,Declaration,Annotations,Meta-Annotations,@Inherited,Class1H0008,func1H0008
+1.Basic Operations,Simple,Declaration,Data Structures,Collection,List,Class1I0000,func1I0000
+1.Basic Operations,Simple,Declaration,Data Structures,Collection,Set,Class1I0001,func1I0001
+1.Basic Operations,Simple,Declaration,Data Structures,Collection,Queue,Class1I0002,func1I0002
+1.Basic Operations,Simple,Declaration,Data Structures,Collection,Deque,Class1I0003,func1I0003
+1.Basic Operations,Simple,Declaration,Data Structures,Map,Map,Class1I0004,func1I0004
+2.Control Structures,Simple,Structure,Sequence,No Loop,,Class2A0000,func2A0000
+2.Control Structures,Simple,Structure,Sequence,With Loop,for,Class2A0001,func2A0001
+2.Control Structures,Simple,Structure,Alternation,if Statement,if,Class2B0000,func2B0000
+2.Control Structures,Simple,Structure,Alternation,if Statement,else if,Class2B0001,func2B0001
+2.Control Structures,Simple,Structure,Alternation,if Statement,else,Class2B0002,func2B0002
+2.Control Structures,Simple,Structure,Alternation,switch Statement,switch/case/default,Class2B0003,func2B0003
+2.Control Structures,Simple,Structure,Iteration,while Statement,while,Class2C0000,func2C0000
+2.Control Structures,Simple,Structure,Iteration,while Statement,do-while,Class2C0001,func2C0001
+2.Control Structures,Simple,Structure,Control Decision,Continue,continue,Class2D0000,func2D0000
+2.Control Structures,Simple,Structure,Control Decision,Break,break,Class2D0001,func2D0001
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: Not Specified,Class2E0000,func2E0000
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: public,Class2E0001,func2E0001
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: private,Class2E0002,func2E0002
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: protected,Class2E0003,func2E0003
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: final,Class2E0004,func2E0004
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: static,Class2E0005,func2E0005
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: transient,Class2E0006,func2E0006
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Field: volatile,Class2E0007,func2E0007
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: Not Specified,Class2E0008,func2E0008
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: public,Class2E0009,func2E0009
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: private,Class2E0010,func2E0010
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: final,Class2E0011,func2E0011
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: static,Class2E0012,func2E0012
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: abstract,Class2E0013,func2E0013
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: synchronized,Class2E0014,func2E0014
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: strictfp,Class2E0015,func2E0015
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Method: default,Class2E0016,func2E0016
+5.Dependencies and Mocking,Simple,Structure,Invocation,Own Class,Recursive Call,Class2E0017,func2E0017
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: Not Specified,Class2E0018,func2E0018
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: public,Class2E0019,func2E0019
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: private,Class2E0020,func2E0020
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: protected,Class2E0021,func2E0021
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: final,Class2E0022,func2E0022
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: static,Class2E0023,func2E0023
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: transient,Class2E0024,func2E0024
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Field: volatile,Class2E0025,func2E0025
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: Not Specified,Class2E0026,func2E0026
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: public,Class2E0027,func2E0027
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: private,Class2E0028,func2E0028
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: final,Class2E0029,func2E0029
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: static,Class2E0030,func2E0030
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: abstract,Class2E0031,func2E0031
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: synchronized,Class2E0032,func2E0032
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: strictfp,Class2E0033,func2E0033
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class,Method: default,Class2E0034,func2E0034
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: Not Specified,Class2E0035,func2E0035
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: public,Class2E0036,func2E0036
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: private (via getter),Class2E0037,func2E0037
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: protected,Class2E0038,func2E0038
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: final,Class2E0039,func2E0039
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: static,Class2E0040,func2E0040
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: transient,Class2E0041,func2E0041
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Field: volatile,Class2E0042,func2E0042
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: Not Specified,Class2E0043,func2E0043
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: public,Class2E0044,func2E0044
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: private (via getter),Class2E0045,func2E0045
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: final,Class2E0046,func2E0046
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: static,Class2E0047,func2E0047
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: abstract,Class2E0048,func2E0048
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: synchronized,Class2E0049,func2E0049
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: strictfp,Class2E0050,func2E0050
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Method: default,Class2E0051,func2E0051
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Class: Not Specified,Class2E0052,func2E0052
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Class: public,Class2E0053,func2E0053
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Class: final,Class2E0054,func2E0054
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Class: abstract,Class2E0055,func2E0055
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Class: strictfp,Class2E0056,func2E0056
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class,Enum,Class2E0057,func2E0057
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class: Instance Executed Within Method,Field: public,Class2E0058,func2E0058
+5.Dependencies and Mocking,Simple,Structure,Invocation,Nested Class: Instance Executed Within Method,Method: public,Class2E0059,func2E0059
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class: Instance Executed Within Method,Field: public,Class2E0060,func2E0060
+5.Dependencies and Mocking,Simple,Structure,Invocation,Dependent Class: Instance Executed Within Method,Method: public,Class2E0061,func2E0061
+5.Dependencies and Mocking,Simple,Structure,Invocation,Class in Different Package,,Class2E0062,func2E0062
+5.Dependencies and Mocking,Simple,Structure,Invocation,Java Standard Library,,Class2E0063,func2E0063
+5.Dependencies and Mocking,Simple,Structure,Invocation,External Library,,Class2E0064,func2E0064
+1.Basic Operations,Simple,Processing,Operators,Arithmetic Operators,+,Class3A0000,func3A0000
+1.Basic Operations,Simple,Processing,Operators,Arithmetic Operators,-,Class3A0001,func3A0001
+1.Basic Operations,Simple,Processing,Operators,Arithmetic Operators,*,Class3A0002,func3A0002
+1.Basic Operations,Simple,Processing,Operators,Arithmetic Operators,/,Class3A0003,func3A0003
+1.Basic Operations,Simple,Processing,Operators,Arithmetic Operators,%,Class3A0004,func3A0004
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,>,Class3A0005,func3A0005
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,>=,Class3A0006,func3A0006
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,<,Class3A0007,func3A0007
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,<=,Class3A0008,func3A0008
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,==,Class3A0009,func3A0009
+1.Basic Operations,Simple,Processing,Operators,Comparison Operators,!=,Class3A0010,func3A0010
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,=,Class3A0011,func3A0011
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,+=,Class3A0012,func3A0012
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,-=,Class3A0013,func3A0013
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,*=,Class3A0014,func3A0014
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,/=,Class3A0015,func3A0015
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,%=,Class3A0016,func3A0016
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,&=,Class3A0017,func3A0017
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,|=,Class3A0018,func3A0018
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,^=,Class3A0019,func3A0019
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,>>=,Class3A0020,func3A0020
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,<<=,Class3A0021,func3A0021
+1.Basic Operations,Simple,Processing,Operators,Assignment Operators,>>>=,Class3A0022,func3A0022
+1.Basic Operations,Simple,Processing,Operators,Increment/Decrement Operators,++,Class3A0023,func3A0023
+1.Basic Operations,Simple,Processing,Operators,Increment/Decrement Operators,?-,Class3A0024,func3A0024
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,&,Class3A0025,func3A0025
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,|,Class3A0026,func3A0026
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,^,Class3A0027,func3A0027
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,~,Class3A0028,func3A0028
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,!,Class3A0029,func3A0029
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,||,Class3A0030,func3A0030
+1.Basic Operations,Simple,Processing,Operators,Logical Operators,&&,Class3A0031,func3A0031
+1.Basic Operations,Simple,Processing,Operators,Shift Operators,<<,Class3A0032,func3A0032
+1.Basic Operations,Simple,Processing,Operators,Shift Operators,>>,Class3A0033,func3A0033
+1.Basic Operations,Simple,Processing,Operators,Shift Operators,>>>,Class3A0034,func3A0034
+1.Basic Operations,Simple,Processing,Operators,Conditional (Ternary) Operator,? :,Class3A0035,func3A0035
+1.Basic Operations,Simple,Processing,Operators,Type Cast Operator,(type),Class3A0036,func3A0036
+1.Basic Operations,Simple,Processing,Operators,instanceof Operator,instanceof,Class3A0037,func3A0037
+3.Exception Handling,Simple,Processing,Syntax,Exception Handling,try-catch,Class3B0000,func3B0000
+3.Exception Handling,Simple,Processing,Syntax,Exception Handling,try-catch-finally,Class3B0001,func3B0001
+3.Exception Handling,Simple,Processing,Syntax,Exception Handling,throw,Class3B0002,func3B0002
+3.Exception Handling,Simple,Processing,Syntax,Exception Handling,throws,Class3B0003,func3B0003
+3.Exception Handling,Simple,Processing,Syntax,Exception Handling/File Handling,try-with-resources,Class3B0004,func3B0004
+4.Object-Oriented,Simple,Processing,Syntax,Lambda Expressions,(parameters) -> expression,Class3B0005,func3B0005
+4.Object-Oriented,Simple,Processing,Syntax,Lambda Expressions,(parameters) -> { statements; },Class3B0006,func3B0006
+4.Object-Oriented,Simple,Processing,Syntax,Method Reference,Object::methodName,Class3B0007,func3B0007
+3.Exception Handling,Simple,Processing,Syntax,assert,,Class3B0008,func3B0008
+4.Object-Oriented,Simple,Processing,Syntax,Reflection,,Class3B0009,func3B0009
+5.Dependencies and Mocking,Simple,Other,Mock,,Full Mock,Class4A0000,func4A0000
+5.Dependencies and Mocking,Simple,Other,Mock,,Partial Mock,Class4A0001,func4A0001
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Method Return Value: No Args,Class4A0002,func4A0002
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Method with Args: Single Arg,Class4A0003,func4A0003
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Method with Args: Multiple Args (Different Types),Class4A0004,func4A0004
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock with Argument Matcher: Single,Class4A0005,func4A0005
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock with Argument Matcher: Multiple (Different Types),Class4A0006,func4A0006
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Void Method,Class4A0007,func4A0007
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Static Method,Class4A0008,func4A0008
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Private Method,Class4A0009,func4A0009
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Constructor,Class4A0010,func4A0010
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Default Method,Class4A0011,func4A0011
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Returning List or Collection,Class4A0012,func4A0012
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Returning Multiple Values in Sequence,Class4A0013,func4A0013
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Method Throwing Exception: Single,Class4A0014,func4A0014
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Method Throwing Exception: Multiple (Ordered),Class4A0015,func4A0015
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Returning Mock,Class4A0016,func4A0016
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Async Method: No Timeout,Class4A0017,func4A0017
+5.Dependencies and Mocking,Simple,Other,Mock,,Mock Async Method: With Timeout,Class4A0018,func4A0018
+5.Dependencies and Mocking,Simple,Other,Mock,,Chaining Method Calls,Class4A0019,func4A0019
+5.Dependencies and Mocking,Simple,Other,Mock,,Verify Method Call Count,Class4A0020,func4A0020
+5.Dependencies and Mocking,Simple,Other,Mock,,Nested Mock,Class4A0021,func4A0021
+2.Control Structures,Complex,Structure,Sequence,With Loop,for: Nested: 2,Class2O0000,func2O0000
+2.Control Structures,Complex,Structure,Sequence,With Loop,for: Nested: 3,Class2O0001,func2O0001
+2.Control Structures,Complex,Structure,Sequence,With Loop,for: Nested: 5,Class2O0002,func2O0002
+2.Control Structures,Complex,Structure,Sequence,With Loop,for: Nested: 8,Class2O0003,func2O0003
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：2,Class2P0000,func2P0000
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：3,Class2P0001,func2P0001
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：5,Class2P0002,func2P0002
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：8,Class2P0003,func2P0003
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：13,Class2P0004,func2P0004
+2.Control Structures,Complex,Structure,Alternation,if Statement,if：21,Class2P0005,func2P0005
+2.Control Structures,Complex,Structure,Alternation,if Statement,if: Nested: 2,Class2P0006,func2P0006
+2.Control Structures,Complex,Structure,Alternation,if Statement,if: Nested: 3,Class2P0007,func2P0007
+2.Control Structures,Complex,Structure,Alternation,if Statement,if: Nested: 5,Class2P0008,func2P0008
+2.Control Structures,Complex,Structure,Alternation,if Statement,if: Nested: 8,Class2P0009,func2P0009
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：2,Class2P0010,func2P0010
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：3,Class2P0011,func2P0011
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：5,Class2P0012,func2P0012
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：8,Class2P0013,func2P0013
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：13,Class2P0014,func2P0014
+2.Control Structures,Complex,Structure,Alternation,if Statement,if/else if/else：21,Class2P0015,func2P0015
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,and：2,Class2Q0000,func2Q0000
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,and：3,Class2Q0001,func2Q0001
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,and：5,Class2Q0002,func2Q0002
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,or：2,Class2Q0003,func2Q0003
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,or：3,Class2Q0004,func2Q0004
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,or：5,Class2Q0005,func2Q0005
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,and+or：3,Class2Q0006,func2Q0006
+2.Control Structures,Complex,Structure,Alternation,if Statement: Condition,and+or：5,Class2Q0007,func2Q0007
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：2,Class2R0000,func2R0000
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：3,Class2R0001,func2R0001
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：5,Class2R0002,func2R0002
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：8,Class2R0003,func2R0003
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：13,Class2R0004,func2R0004
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default：21,Class2R0005,func2R0005
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default: Nested: 2,Class2R0006,func2R0006
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default: Nested: 3,Class2R0007,func2R0007
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default: Nested: 5,Class2R0008,func2R0008
+2.Control Structures,Complex,Structure,Alternation,switch Statement,switch/case/default: Nested: 8,Class2R0009,func2R0009
+2.Control Structures,Complex,Structure,Iteration,while Statement,while: Nested: 2,Class2S0000,func2S0000
+2.Control Structures,Complex,Structure,Iteration,while Statement,while: Nested: 3,Class2S0001,func2S0001
+2.Control Structures,Complex,Structure,Iteration,while Statement,while: Nested: 5,Class2S0002,func2S0002
+2.Control Structures,Complex,Structure,Iteration,while Statement,while: Nested: 8,Class2S0003,func2S0003
+2.Control Structures,Complex,Structure,Control Decision,Continue,continue：2,Class2T0000,func2T0000
+2.Control Structures,Complex,Structure,Control Decision,Continue,continue：3,Class2T0001,func2T0001
+2.Control Structures,Complex,Structure,Control Decision,Continue,continue：5,Class2T0002,func2T0002
+2.Control Structures,Complex,Structure,Control Decision,Break,break：2,Class2T0003,func2T0003
+2.Control Structures,Complex,Structure,Control Decision,Break,break：3,Class2T0004,func2T0004
+2.Control Structures,Complex,Structure,Control Decision,Break,break：5,Class2T0005,func2T0005
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created Within Method,Method: 2,Class2U0000,func2U0000
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created Within Method,Method: 3,Class2U0001,func2U0001
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created Within Method,Method: 5,Class2U0002,func2U0002
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created Within Method,Method: 8,Class2U0003,func2U0003
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created Within Method,Method: 13,Class2U0004,func2U0004
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created as Field,Method: 2,Class2U0005,func2U0005
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created as Field,Method: 3,Class2U0006,func2U0006
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created as Field,Method: 5,Class2U0007,func2U0007
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created as Field,Method: 8,Class2U0008,func2U0008
+5.Dependencies and Mocking,Complex,Structure,Invocation,Dependent Class: Instance Created as Field,Method: 13,Class2U0009,func2U0009
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Constructor Args Not All Mocked,Args: 2,Class4O0000,func4O0000
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Constructor Args Not All Mocked,Args: 3,Class4O0001,func4O0001
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Constructor Args Not All Mocked,Args: 5,Class4O0002,func4O0002
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Constructor Args Not All Mocked,Args: 8,Class4O0003,func4O0003
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Constructor Args Not All Mocked,Args: 13,Class4O0004,func4O0004
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Mocking Method with Return Value as void,,Class4O0005,func4O0005
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Mocking JDK Class,DriverManager(java.sql.DriverManager),Class4O0006,func4O0006
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Using Non-existent Enum Value,,Class4O0007,func4O0007
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Second Method Not Mocked in method().method() Chain Pattern,,Class4O0008,func4O0008
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Mock of while Condition Always Returns True (Infinite Loop),,Class4O0009,func4O0009
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Importing Inner Class Enum as External Class,,Class4O0010,func4O0010
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Cannot Directly Mock/Spy Private Constructor,,Class4O0011,func4O0011
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,any() Matcher Cannot Handle Overloaded Method Mock,,Class4O0012,func4O0012
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Mocking Field Variable as Method,,Class4O0013,func4O0013
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Cannot Mock Final Method,public class,Class4O0014,func4O0014
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Cannot Mock Final Method,final class,Class4O0015,func4O0015
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Cannot Identify Overloaded Method at Invocation,,Class4O0016,func4O0016
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,Mocking the Method Under Test,,Class4O0017,func4O0017
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,PowerMock Conflicts with Java 9+ Module System,com.sun.org.apache.xerces.*,Class4O0018,func4O0018
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,PowerMock Conflicts with Java 9+ Module System,javax.xml.*,Class4O0019,func4O0019
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,PowerMock Conflicts with Java 9+ Module System,org.xml.*,Class4O0020,func4O0020
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,PowerMock Conflicts with Java 9+ Module System,javax.management.*,Class4O0021,func4O0021
+5.Dependencies and Mocking,Complex,Other,Experimental Patterns,PowerMock Conflicts with Java 9+ Module System,org.w3c.*,Class4O0022,func4O0022

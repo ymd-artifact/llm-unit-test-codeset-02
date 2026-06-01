@@ -1,0 +1,46 @@
+Method:
+    - `{{ method_name }}`
+
+Class:
+    - `{{ class_name }}`
+
+Information:
+    Package:
+        - `{{ package }}`
+    Imports:
+        {%- for import in imports %}
+        - `{{ import }}`
+        {%- endfor %}
+    Focal class constructor source code:
+        - `{{ constructor_code }}`
+    Focal method source code:
+        - `{{ source_code }}`
+    Signature:
+        Focal class:
+            - Class signature:
+                - `{{ class_signature }}`
+            - Fields:
+                {%- for field in fields %}
+                - `{{ field }}`
+                {%- endfor %}
+            - Inner classes signature:
+                {%- for inner_class in inner_classes %}
+                - `{{ inner_class }}`
+                {%- endfor %}
+            - Methods:
+                {%- for method in all_methods %}
+                - `{{ method }}`
+                {%- endfor %}
+        Dependencies:
+            - Class dependencies:
+                {%- for key, value in class_dependencies.items() %}
+                - `{{ key }}: {{ value }}`
+                {%- endfor %}
+            - Field dependencies:
+                {%- for key, value in field_dependencies.items() %}
+                - `{{ key }}: {{ value }}`
+                {%- endfor %}
+            - Method dependencies:
+                {%- for key, value in method_dependencies.items() %}
+                - `{{ key }}: {{ value }}`
+                {%- endfor %}
